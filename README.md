@@ -6,3 +6,8 @@ while checking for the encoded polyline don't forget to check the #Unescape
 
 Use this platform to check the encoded polyline
 https://valhalla.github.io/demos/polyline/
+
+# Output
+And boom it provides a routing path
+![image](https://github.com/kushalrijal7/GraphHopperAPI/assets/64521801/e7e762fd-7549-40a1-af28-ff7facf47688)
+
